@@ -1,0 +1,1102 @@
+{
+    "current_profile": "Test",
+    "profiles": {
+        "Main": {
+            "Auto Seelie": {
+                "ElectroSeelie": true,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoChallenge": {
+                "Delay": 603,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Range": 52.0
+            },
+            "AutoCook": {
+                "CountField": 10,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "FastProficiency": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoDestroy": {
+                "DestroyOres": {
+                    "toggled": true,
+                    "value": null
+                },
+                "DestroyPlants": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Range": 15.0
+            },
+            "AutoFish": {
+                "DelayBeforeCatch": 500,
+                "m_AutoFish": {
+                    "toggled": false,
+                    "value": 102
+                }
+            },
+            "AutoLoot": {
+                "AutoPickup": {
+                    "toggled": true,
+                    "value": 109
+                },
+                "AutoTreasure": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Chest": true,
+                "CustomRange": 40.0,
+                "DelayTime": 777,
+                "Investigate": true,
+                "Leyline": true,
+                "Others": true,
+                "QuestInteract": true,
+                "UseCustomRange": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoTalk": {
+                "CutsceneUSM": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": 101
+                },
+                "FastDialog": {
+                    "toggled": true,
+                    "value": null
+                },
+                "TimeSpeedup": 16.799999237060547
+            },
+            "AutoTreeFarm": {
+                "AttackDelay": 507,
+                "AttackPerTree": 10,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "ChestTeleport": {
+                "Key": 222
+            },
+            "CustomTeleports": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Interpolate": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "Damage mode": {
+                "DamageMode": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "ESP": {
+                "DrawDistance": true,
+                "DrawName": true,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Filters": {
+                    "Chest": {
+                        "Common Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Exquisite Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Luxurious Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Precious Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Remarkable Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Search Point": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Collection": {
+                        "Quest Interact": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Radiant Spincrystal": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Featured": {
+                        "Item Drops": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Plant": {
+                        "Sakura Bloom": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    }
+                },
+                "MiddleScreenTracer": true,
+                "Range": 200.0
+            },
+            "Enabled": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "General": {
+                "FastExit": {
+                    "FastExitEnable": true
+                },
+                "MenuKey": 188,
+                "SelectedSection": 3,
+                "StatusWindow": {
+                    "StatusShow": false
+                }
+            },
+            "InfiniteStamina": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PacketReplacement": true
+            },
+            "KillAura": {
+                "AttackDelay": 333,
+                "Enabled": {
+                    "toggled": false,
+                    "value": 103
+                },
+                "OnlyTargeted": false,
+                "Range": 51.599998474121094,
+                "RepeatDelay": 777
+            },
+            "MapTeleport": {
+                "DefaultHeight": 555.0,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "MobVacuum": {
+                "AnimalNPC": false,
+                "Distance": 2.5999999046325684,
+                "Enabled": {
+                    "toggled": true,
+                    "value": 100
+                },
+                "Instantly": true,
+                "MonsterBosses": false,
+                "OnlyTarget": false,
+                "Radius": 78.19999694824219
+            },
+            "NoCD": {
+                "AbilityReduce": {
+                    "toggled": true,
+                    "value": null
+                },
+                "InstantBow": {
+                    "toggled": true,
+                    "value": 99
+                },
+                "Sprint": {
+                    "toggled": true,
+                    "value": null
+                },
+                "UtimateMaxEnergy": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "NoClip": {
+                "AltSpeed": 35.900001525878906,
+                "AltSpeedEnabled": true,
+                "Enabled": {
+                    "toggled": false,
+                    "value": 98
+                },
+                "Speed": 18.700000762939453,
+                "VelocityMode": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "OculiTeleport": {
+                "Key": 186
+            },
+            "Player": {
+                "AltGodMode": {
+                    "toggled": true,
+                    "value": null
+                },
+                "AutoRun": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": 107
+                    },
+                    "Speed": 33.5099983215332
+                },
+                "m_GodMode": {
+                    "toggled": true,
+                    "value": 97
+                }
+            },
+            "RapidFire": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "MultiAnimation": {
+                    "toggled": false,
+                    "value": 190
+                },
+                "MultiHit": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Randomize": {
+                    "toggled": true,
+                    "value": null
+                },
+                "maxMultiplier": 8,
+                "minMultiplier": 4
+            },
+            "VacuumLoot": {
+                "Distance": 2.0,
+                "Enabled": {
+                    "toggled": true,
+                    "value": 104
+                },
+                "Filters": {
+                    "Plant": {
+                        "Apple": false,
+                        "Sunsettia": false
+                    }
+                },
+                "MobDropRadius": 43.599998474121094,
+                "Radius": 45.79999923706055
+            },
+            "Visuals": {
+                "NoFog": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PaimonFollow": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "World": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            }
+        },
+        "Test": {
+            "Auto Seelie": {
+                "ElectroSeelie": true,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoChallenge": {
+                "BombDestroy": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Delay": 364,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Range": 70.4000015258789
+            },
+            "AutoCook": {
+                "CountField": 100,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "FastProficiency": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoDestroy": {
+                "DestroyOres": {
+                    "toggled": true,
+                    "value": null
+                },
+                "DestroyPlants": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Range": 15.0
+            },
+            "AutoFish": {
+                "DelayBeforeCatch": 500,
+                "m_AutoFish": {
+                    "toggled": false,
+                    "value": 102
+                }
+            },
+            "AutoLoot": {
+                "AutoPickup": {
+                    "toggled": true,
+                    "value": 109
+                },
+                "AutoTreasure": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Chest": true,
+                "CustomRange": 40.0,
+                "DelayTime": 331,
+                "Investigate": true,
+                "Leyline": true,
+                "Others": true,
+                "QuestInteract": true,
+                "UseCustomRange": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoTalk": {
+                "CutsceneUSM": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": 101
+                },
+                "FastDialog": {
+                    "toggled": true,
+                    "value": null
+                },
+                "TimeSpeedup": 20.200000762939453
+            },
+            "AutoTreeFarm": {
+                "AttackDelay": 507,
+                "AttackPerTree": 10,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "ChestTeleport": {
+                "Key": 222
+            },
+            "Damage mode": {
+                "DamageMode": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "ESP": {
+                "DrawDistance": true,
+                "DrawName": true,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Filters": {
+                    "Chest": {
+                        "Common Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Exquisite Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Luxurious Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Precious Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Remarkable Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Search Point": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Collection": {
+                        "Quest Interact": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Radiant Spincrystal": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Featured": {
+                        "Item Drops": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Plant": {
+                        "Sakura Bloom": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    }
+                },
+                "MiddleScreenTracer": true,
+                "Range": 200.0
+            },
+            "Enabled": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "General": {
+                "MenuKey": 45,
+                "SelectedSection": 4,
+                "StatusWindow": {
+                    "StatusShow": false
+                }
+            },
+            "InfiniteStamina": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PacketReplacement": true
+            },
+            "KillAura": {
+                "AttackDelay": 333,
+                "Enabled": {
+                    "toggled": false,
+                    "value": 103
+                },
+                "OnlyTargeted": false,
+                "Range": 73.0,
+                "RepeatDelay": 342
+            },
+            "MapTeleport": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "MobVacuum": {
+                "AnimalNPC": false,
+                "Distance": 2.5999999046325684,
+                "Enabled": {
+                    "toggled": true,
+                    "value": 100
+                },
+                "Instantly": true,
+                "MonsterBosses": false,
+                "OnlyTarget": false,
+                "Radius": 80.80000305175781
+            },
+            "NoCD": {
+                "AbilityReduce": {
+                    "toggled": true,
+                    "value": null
+                },
+                "InstantBow": {
+                    "toggled": true,
+                    "value": 99
+                },
+                "Sprint": {
+                    "toggled": true,
+                    "value": null
+                },
+                "UtimateMaxEnergy": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "NoClip": {
+                "AltSpeed": 28.799999237060547,
+                "AltSpeedEnabled": true,
+                "Enabled": {
+                    "toggled": false,
+                    "value": 98
+                },
+                "Speed": 18.700000762939453,
+                "VelocityMode": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "OculiTeleport": {
+                "Key": 186
+            },
+            "Player": {
+                "AltGodMode": {
+                    "toggled": true,
+                    "value": null
+                },
+                "AutoRun": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": 107
+                    },
+                    "Speed": 33.439998626708984
+                },
+                "m_GodMode": {
+                    "toggled": true,
+                    "value": 97
+                }
+            },
+            "RapidFire": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "MultiAnimation": {
+                    "toggled": false,
+                    "value": 190
+                },
+                "MultiHit": {
+                    "toggled": true,
+                    "value": null
+                },
+                "MultiTargetRadius": 50.0,
+                "Randomize": {
+                    "toggled": true,
+                    "value": null
+                },
+                "maxMultiplier": 10,
+                "minMultiplier": 5
+            },
+            "VacuumLoot": {
+                "DelayTime": 421,
+                "Distance": 2.0,
+                "Enabled": {
+                    "toggled": true,
+                    "value": 104
+                },
+                "MobDropRadius": 63.400001525878906,
+                "Radius": 100.0
+            },
+            "Visuals": {
+                "Browser": {
+                    "toggled": false,
+                    "value": 220
+                },
+                "FreeCamera": {
+                    "FOV": 98.0,
+                    "FOVSpeed": 0.6000000238418579,
+                    "LookSens": 2.0399999618530273,
+                    "RollSpeed": 17.780000686645508,
+                    "Smoothing": 0.5899999737739563,
+                    "Speed": 9.180000305175781
+                },
+                "NoFog": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PaimonFollow": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "World": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            }
+        }
+    },
+    "shared": {
+        "General": {
+            "Colors": {
+                "DefaultTheme": ""
+            },
+            "Multi-Account": {
+                "data": {
+                    "accounts": [
+                        [
+                            50595,
+                            {
+                                "nickName": "VTA",
+                                "userID": 50595
+                            }
+                        ],
+                        [
+                            811037870,
+                            {
+                                "nickName": "childe",
+                                "userID": 811037870
+                            }
+                        ],
+                        [
+                            1,
+                            {
+                                "nickName": "VTA",
+                                "userID": 1
+                            }
+                        ]
+                    ],
+                    "id2Profiles": [
+                        [
+                            50595,
+                            "Test"
+                        ],
+                        [
+                            811037870,
+                            "Main"
+                        ],
+                        [
+                            1,
+                            "Test"
+                        ]
+                    ],
+                    "pseudos": [
+                        [
+                            811037870,
+                            "ChuaHe"
+                        ],
+                        [
+                            50595,
+                            "VTA"
+                        ],
+                        [
+                            1,
+                            "VTA"
+                        ]
+                    ]
+                }
+            }
+        },
+        "InteractiveMap": {
+            "LastUserID": 10003,
+            "accounts": {
+                "1": {
+                    "completed_points": {
+                        "3": {
+                            "17": [
+                                {
+                                    "complete_timestamp": 1660729441034,
+                                    "point_id": 564
+                                },
+                                {
+                                    "complete_timestamp": 1660726903239,
+                                    "point_id": 663
+                                },
+                                {
+                                    "complete_timestamp": 1660726909046,
+                                    "point_id": 724
+                                },
+                                {
+                                    "complete_timestamp": 1660729069196,
+                                    "point_id": 1015
+                                },
+                                {
+                                    "complete_timestamp": 1660729415509,
+                                    "point_id": 1046
+                                },
+                                {
+                                    "complete_timestamp": 1660728880932,
+                                    "point_id": 1048
+                                },
+                                {
+                                    "complete_timestamp": 1660728989449,
+                                    "point_id": 1110
+                                },
+                                {
+                                    "complete_timestamp": 1660728870300,
+                                    "point_id": 1139
+                                },
+                                {
+                                    "complete_timestamp": 1660728773503,
+                                    "point_id": 1159
+                                },
+                                {
+                                    "complete_timestamp": 1660728915417,
+                                    "point_id": 1201
+                                },
+                                {
+                                    "complete_timestamp": 1660728911071,
+                                    "point_id": 1231
+                                },
+                                {
+                                    "complete_timestamp": 1660728909038,
+                                    "point_id": 1285
+                                },
+                                {
+                                    "complete_timestamp": 1660728935488,
+                                    "point_id": 1295
+                                },
+                                {
+                                    "complete_timestamp": 1660728981573,
+                                    "point_id": 1548
+                                },
+                                {
+                                    "complete_timestamp": 1660732196791,
+                                    "point_id": 2056
+                                },
+                                {
+                                    "complete_timestamp": 1660731842740,
+                                    "point_id": 2060
+                                },
+                                {
+                                    "complete_timestamp": 1660732105499,
+                                    "point_id": 2066
+                                },
+                                {
+                                    "complete_timestamp": 1660732080483,
+                                    "point_id": 2069
+                                },
+                                {
+                                    "complete_timestamp": 1660731982655,
+                                    "point_id": 2070
+                                },
+                                {
+                                    "complete_timestamp": 1660732158395,
+                                    "point_id": 2071
+                                },
+                                {
+                                    "complete_timestamp": 1660732068478,
+                                    "point_id": 2072
+                                },
+                                {
+                                    "complete_timestamp": 1660731807906,
+                                    "point_id": 2074
+                                },
+                                {
+                                    "complete_timestamp": 1660727018843,
+                                    "point_id": 2080
+                                },
+                                {
+                                    "complete_timestamp": 1660727039796,
+                                    "point_id": 2083
+                                },
+                                {
+                                    "complete_timestamp": 1660727020958,
+                                    "point_id": 2088
+                                },
+                                {
+                                    "complete_timestamp": 1660726759325,
+                                    "point_id": 3640
+                                },
+                                {
+                                    "complete_timestamp": 1660732026714,
+                                    "point_id": 4758
+                                },
+                                {
+                                    "complete_timestamp": 1660732065931,
+                                    "point_id": 6415
+                                }
+                            ],
+                            "44": [
+                                {
+                                    "complete_timestamp": 1660729025617,
+                                    "point_id": 845
+                                },
+                                {
+                                    "complete_timestamp": 1660731564387,
+                                    "point_id": 1058
+                                },
+                                {
+                                    "complete_timestamp": 1660781132060,
+                                    "point_id": 2155
+                                },
+                                {
+                                    "complete_timestamp": 1660732136192,
+                                    "point_id": 2159
+                                },
+                                {
+                                    "complete_timestamp": 1660731897930,
+                                    "point_id": 2160
+                                },
+                                {
+                                    "complete_timestamp": 1660731651435,
+                                    "point_id": 4884
+                                }
+                            ],
+                            "5": [
+                                {
+                                    "complete_timestamp": 1660728637575,
+                                    "point_id": 66
+                                },
+                                {
+                                    "complete_timestamp": 1660728709616,
+                                    "point_id": 67
+                                },
+                                {
+                                    "complete_timestamp": 1660729211962,
+                                    "point_id": 68
+                                },
+                                {
+                                    "complete_timestamp": 1660729153497,
+                                    "point_id": 858
+                                }
+                            ]
+                        }
+                    }
+                },
+                "50595": {
+                    "completed_points": {
+                        "3": {
+                            "17": [
+                                {
+                                    "complete_timestamp": 1660065672093,
+                                    "point_id": 943
+                                },
+                                {
+                                    "complete_timestamp": 1660065672779,
+                                    "point_id": 996
+                                },
+                                {
+                                    "complete_timestamp": 1660065658093,
+                                    "point_id": 1026
+                                },
+                                {
+                                    "complete_timestamp": 1660066229543,
+                                    "point_id": 1046
+                                },
+                                {
+                                    "complete_timestamp": 1660065661628,
+                                    "point_id": 1131
+                                },
+                                {
+                                    "complete_timestamp": 1660062454175,
+                                    "point_id": 2046
+                                },
+                                {
+                                    "complete_timestamp": 1660065484566,
+                                    "point_id": 2056
+                                },
+                                {
+                                    "complete_timestamp": 1660065395503,
+                                    "point_id": 2060
+                                },
+                                {
+                                    "complete_timestamp": 1660061762583,
+                                    "point_id": 2062
+                                },
+                                {
+                                    "complete_timestamp": 1660061179508,
+                                    "point_id": 2063
+                                },
+                                {
+                                    "complete_timestamp": 1660062459362,
+                                    "point_id": 2065
+                                },
+                                {
+                                    "complete_timestamp": 1660065210933,
+                                    "point_id": 2079
+                                },
+                                {
+                                    "complete_timestamp": 1660065247597,
+                                    "point_id": 2080
+                                },
+                                {
+                                    "complete_timestamp": 1660037064369,
+                                    "point_id": 2083
+                                },
+                                {
+                                    "complete_timestamp": 1660061771911,
+                                    "point_id": 2087
+                                },
+                                {
+                                    "complete_timestamp": 1660065242882,
+                                    "point_id": 2088
+                                },
+                                {
+                                    "complete_timestamp": 1660065668322,
+                                    "point_id": 4750
+                                },
+                                {
+                                    "complete_timestamp": 1660065651721,
+                                    "point_id": 4759
+                                },
+                                {
+                                    "complete_timestamp": 1660066198200,
+                                    "point_id": 4824
+                                }
+                            ],
+                            "44": [
+                                {
+                                    "complete_timestamp": 1660065719359,
+                                    "point_id": 967
+                                },
+                                {
+                                    "complete_timestamp": 1660065681070,
+                                    "point_id": 1611
+                                },
+                                {
+                                    "complete_timestamp": 1660065443703,
+                                    "point_id": 2159
+                                }
+                            ],
+                            "46": [
+                                {
+                                    "complete_timestamp": 1660061769527,
+                                    "point_id": 2118
+                                }
+                            ],
+                            "5": [
+                                {
+                                    "complete_timestamp": 1660066386776,
+                                    "point_id": 68
+                                },
+                                {
+                                    "complete_timestamp": 1660065620696,
+                                    "point_id": 73
+                                }
+                            ]
+                        }
+                    }
+                },
+                "811037870": {
+                    "completed_points": {
+                        "3": {
+                            "17": [
+                                {
+                                    "complete_timestamp": 1660033834183,
+                                    "point_id": 947
+                                },
+                                {
+                                    "complete_timestamp": 1660033836523,
+                                    "point_id": 1004
+                                },
+                                {
+                                    "complete_timestamp": 1660034339834,
+                                    "point_id": 4756
+                                },
+                                {
+                                    "complete_timestamp": 1660034371824,
+                                    "point_id": 6669
+                                },
+                                {
+                                    "complete_timestamp": 1660034349180,
+                                    "point_id": 7084
+                                },
+                                {
+                                    "complete_timestamp": 1660034086782,
+                                    "point_id": 7496
+                                },
+                                {
+                                    "complete_timestamp": 1660034103124,
+                                    "point_id": 7497
+                                }
+                            ],
+                            "44": [
+                                {
+                                    "complete_timestamp": 1660035076211,
+                                    "point_id": 1926
+                                },
+                                {
+                                    "complete_timestamp": 1660035049400,
+                                    "point_id": 1929
+                                }
+                            ],
+                            "45": [
+                                {
+                                    "complete_timestamp": 1660034797745,
+                                    "point_id": 2003
+                                },
+                                {
+                                    "complete_timestamp": 1660034328932,
+                                    "point_id": 2004
+                                },
+                                {
+                                    "complete_timestamp": 1660034729162,
+                                    "point_id": 2010
+                                },
+                                {
+                                    "complete_timestamp": 1660035038598,
+                                    "point_id": 2021
+                                },
+                                {
+                                    "complete_timestamp": 1660035040932,
+                                    "point_id": 24553
+                                }
+                            ],
+                            "6": [
+                                {
+                                    "complete_timestamp": 1660034357240,
+                                    "point_id": 247
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "PatternScanner": {
+            "m_CheckSumTimestamp": {
+                "UnityPlayer.dll": 133005843780000000,
+                "UserAssembly.dll": 133005843780000000
+            }
+        }
+    }
+}
